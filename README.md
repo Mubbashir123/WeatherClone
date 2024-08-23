@@ -1,6 +1,4 @@
-![Project preview](https://github.com/catherineisonline/weather-now/blob/main/public/project-preview-1.png?raw=true)
-![Project preview](https://github.com/catherineisonline/weather-now/blob/main/public/project-preview-2.png?raw=true)
-![Project preview](https://github.com/catherineisonline/weather-now/blob/main/public/project-preview-3.png?raw=true)
+
 
 # Weather Now 
 
@@ -46,11 +44,5 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
-
-
-
-## Contribution
-
-This project serves as a project to show off my personal skills. I do not accept any contributions like pull requests to this project however if you have any suggestions or ideas feel free to message me or submit an idea in the [discussions](https://github.com/catherineisonline/weather-now/discussions). Otherwise, you are free to fork this project and change it for your own purposes.  
 
 
